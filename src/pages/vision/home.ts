@@ -11,7 +11,7 @@ export class HomePage {
 
 
   public ROOT_URL = 'https://vision.googleapis.com';
-  public API_KEY = 'AIzaSyDCeSjtkgELutZ4prPZBCjKPvw7RIQF3V8'; // YOUR CLOUD PLATFORM API KEY
+  public API_KEY = 'AIzaSyCGlDIgxdm-xI6L-HMlrt2eIKrwPKvIW8c'; // YOUR CLOUD PLATFORM API KEY
   public visionRequest = {
     "requests": [{
         "image": {
